@@ -2,7 +2,7 @@
 [![We recommend IntelliJ IDEA](https://www.elegantobjects.org/intellij-idea.svg)](https://www.jetbrains.com/idea/)
 <br>
 
-[![node](https://github.com/h1alexbel/serialize/actions/workflows/node.yml/badge.svg)](https://github.com/h1alexbel/serialize[.github](..%2F..%2Fcloudwatcher%2F.github)/actions/workflows/node.yml)
+[![node](https://github.com/h1alexbel/serialize/actions/workflows/node.yml/badge.svg)](https://github.com/h1alexbel/serialize/actions/workflows/node.yml)
 [![Hits-of-Code](https://hitsofcode.com/github/h1alexbel/serialize)](https://hitsofcode.com/view/github/h1alexbel/serialize)
 [![Lines-of-Code](https://tokei.rs/b1/github/h1alexbel/serialize)](https://github.com/h1alexbel/serialize)
 [![PDD status](http://www.0pdd.com/svg?name=h1alexbel/serialize)](http://www.0pdd.com/p?name=h1alexbel/serialize)
@@ -10,10 +10,10 @@
 
 Project architect: [@h1alexbel](https://github.com/h1alexbel)
 
-Simple Serialization Interceptor and it Decorator for NestJS.
+Simple Serialization Interceptor and it Decorator for [NestJS](https://nestjs.com/).
 
 **Motivation**.
-We are not happy with Spring Kafka, because it is very procedural and not object-oriented. eo-kafka is suggesting to do almost exactly the same, but through objects.
+We are not happy with duplicating code each time we are working with serialization in NestJs.
 
 **How to use**.
 First install package from [npm.js](https://www.npmjs.com/package/serialize-nest):
