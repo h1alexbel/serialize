@@ -1,6 +1,6 @@
 {
   "name": "serialize-nest",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple Serialization Interceptor and it Decorator for NestJS",
   "author": "Aliaksei Bialiauski",
   "private": false,
